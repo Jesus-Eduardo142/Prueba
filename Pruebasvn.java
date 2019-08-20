@@ -16,6 +16,7 @@ public class Pruebasvn {
      */
     public static void main(String[] args) {
         System.out.println("Hola amiguito :v");
+        System.out.println("Holiwis compañero")
     }
     
 }
