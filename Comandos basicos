@@ -1,0 +1,29 @@
+***Creacion de repositorio*****
+git init 
+
+
+***Agregar un archivo***
+git add
+
+
+***Envio de cambios***
+git commit -m
+
+
+***Crea una copia de trabajo***
+git check out 
+
+
+***Descargar una copia del repositorio***
+git clone git://github.com/aldoivan999/TDD_AldoGarcia
+
+
+
+*** Para enviar los cambios***
+git push
+
+
+
+*** Para descargar la ultima version del repositorio***
+git pull
+
